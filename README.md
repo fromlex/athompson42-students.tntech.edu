@@ -1,5 +1,4 @@
-# athompson42-students.tntech.edu
-lexicographic-permutation
+# lexicographic-permutation
 
 uses insertion sort to sort strings and 
 inputs those strings into lexicographic permutation algorithm
